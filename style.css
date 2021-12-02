@@ -1,0 +1,60 @@
+#marqueeStyle{
+  width:100%;
+  direction:right;
+  height:50px;
+  color:red;
+    background-color: aquamarine;
+  font-size:120%;
+}
+#img1{
+    width:278px;
+    height:181px;
+    
+}
+.image{
+    margin:20px;
+    
+}
+.dropdown{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+
+}
+.dropdown i{
+    float:right;
+}
+
+#Awardsdropdown{
+   font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+    width:100%;
+    display:inline-block;
+ 
+}
+
+.new{
+    margin-top:13px;
+}
+
+.new h4{
+    border-bottom:1px solid white;
+    padding:8px;
+}
+.new img{
+    border-radius:25px;
+}
+.new p{
+    margin-top:10px;
+}
+
+.imglist{
+    width:25%;
+    height:255px;
+    border-radius:20px;
+}
